@@ -7,3 +7,5 @@
 🎓️ Aula virtual presencial: <https://centros.edu.xunta.gal/iesfernandowirtz/aulavirtual>
 
 🕸️ Aula virtual de distancia: <https://fpadistancia.edu.xunta.gal/>
+
+📚️ Catálogo da biblioteca: <https://iesfernandowirtz.edubib.xunta.gal/>
